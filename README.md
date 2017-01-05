@@ -1,10 +1,10 @@
-# Elm Select
+# Elm AutoComplete
 
 An input component with autocompletion.
 
 ## Demo
 
-See https://sporto.github.io/elm-select/
+See https://sporto.github.io/elm-autocomplete/
 
 ## Example and Getting started
 
@@ -12,7 +12,7 @@ See commented example at `example/src/Example1.elm`
 
 ## API
 
-<http://package.elm-lang.org/packages/sporto/elm-select/latest>
+<http://package.elm-lang.org/packages/sporto/elm-autocomplete/latest>
 
 ### [Changelog](./CHANGELOG.md)
 
