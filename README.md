@@ -1,4 +1,4 @@
-This package is not mantained. Use https://github.com/sporto/elm-autocomplete instead.
+This package is not mantained. Use https://github.com/sporto/elm-select instead.
 
 # Elm AutoComplete
 
